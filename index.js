@@ -46,3 +46,7 @@ function equation(a,b,c){
     var x2= (-b-Math.sqrt(d))/(2*a);
     return 'x<sub>1</sub>= ' + x1 + '; x<sub>2</sub>= ' + x2;
 }
+
+    document.write('<br>');
+    document.write('<br>');
+    document.write('<h4>Дякую за увагу!</h4>');
